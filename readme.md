@@ -1,3 +1,3 @@
 # notas 
 
-este es um repositorio de prueba
+este es mi repositorio
