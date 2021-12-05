@@ -7,3 +7,6 @@ mario
 luigi
 toad
 princesa peach
+bowser
+bomba
+tortuga
