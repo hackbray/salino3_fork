@@ -2,5 +2,5 @@ yoshi
 perros
 gatos
 serpientes
-ratones
+ratones y queso
 peces
